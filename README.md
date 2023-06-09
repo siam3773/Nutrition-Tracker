@@ -1,1 +1,3 @@
-# Nutrition-Tracker
+ Our Project is a Nutrition tracker. We have made software that    enables individuals to  track their food’s nutritional information. This project aims to utilize Python programming language to create a user-friendly and interactive platform for accessing nutritional data.We have created an app that allows Users to search for a specific food, view detailed nutritional information, compare the nutritional profiles of 2 food items side by side and Display a sorted list of foods based on the nutrient with the highest value
+The app uses an API that we have created to gather data on different foods, (such as carbohydrates, proteins, and fats), micronutrients, vitamins, minerals, and calories. 
+The user interface is designed using Python's GUI framework Tkinter providing an intuitive and visually appealing experience. 
